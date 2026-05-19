@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kelvin Lállas
 
-<!--
-**kln77/kln77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & DevSecOps enthusiast focused on cloud infrastructure, automation and cybersecurity.
 
-Here are some ideas to get you started:
+## Technologies
+- Linux
+- Docker
+- Git & GitHub
+- CI/CD
+- AWS
+- Kubernetes
+- Terraform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- CRTA
+- Google Cybersecurity Professional Certificate
+
+## Current Focus
+- Cloud Computing
+- Infrastructure as Code
+- Containers & Orchestration
+- DevSecOps
